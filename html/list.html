@@ -1,0 +1,8 @@
+<h1>Title</h1>
+
+{{ range $key, $value := . }}
+<li>
+    <span>[<a href="/view/{{ .Title }}">view</a>]</span>
+    <strong>{{ $key }}</strong>: {{ .BodyStr }}
+</li>
+{{ end }}
