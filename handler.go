@@ -7,6 +7,7 @@ import (
 )
 
 var htmls = []string{
+	"./html/main.html",
 	"./html/list.html",
 	"./html/edit.html",
 	"./html/view.html",
