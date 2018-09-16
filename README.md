@@ -1,4 +1,5 @@
 # groom
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 web server
 
@@ -20,8 +21,3 @@ $ go build main.go handler.go page.go validation.go
 
 
 home is `localhost:8080/list`
-
-
-
-
-## MIT
