@@ -20,3 +20,8 @@ $ go build main.go handler.go page.go validation.go
 
 
 home is `localhost:8080/list`
+
+
+
+
+## MIT
